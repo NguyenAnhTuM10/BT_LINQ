@@ -1,0 +1,9 @@
+D:\HocKy5\Net\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\HocKy5\Net\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+D:\HocKy5\Net\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+D:\HocKy5\Net\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\HocKy5\Net\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\HocKy5\Net\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\HocKy5\Net\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\HocKy5\Net\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\HocKy5\Net\LINQ\LINQ\obj\Debug\LINQ.pdb
